@@ -6,9 +6,9 @@
 //
 
 import Foundation
-
-/ swift-tools-version:5.1
 import PackageDescription
+
+//swift-tools-version:5.1
 
 let package = Package(
     name: "AdvancedPageControl",
